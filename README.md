@@ -12,5 +12,5 @@ Do the following:
     1. `INSTANCE: 'Writerside/hi'` with INSTANCE: `'Writerside/<your lowercase id here>'` (if not already)
     2. `ARTIFACT: 'webHelpHI2-all.zip'` with `ARTIFACT: 'webHelp<YOUR ID IN UPPERCASE HERE>2-all.zip'`
  
-It is important to note that you MUST have a 'Writerside' folder, wherein the c.list, hi.tree, etc. lives.
+It is important to note that you MUST have a 'Writerside' folder, wherein the c.list, <your lowercase id here>.tree, etc. lives.
 This is required by JetBrains as well, as far as I know.
